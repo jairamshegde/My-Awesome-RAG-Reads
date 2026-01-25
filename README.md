@@ -22,3 +22,6 @@ This is one of the important concept I have learned while building the RAG pipel
   - 1st pass has been done, notes making under progress.
 - On going work
   - Building the deep research kind of agents to do QnA on documents. still in exploration phase.
+- [pageindex](https://pageindex.ai/blog/pageindex-intro)
+  - **vectorless** reasoning based RAG
+  - Very awesome idea, human like search, their demo page has really long documents.
