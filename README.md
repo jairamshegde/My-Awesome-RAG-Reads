@@ -25,3 +25,5 @@ This is one of the important concept I have learned while building the RAG pipel
 - [pageindex](https://pageindex.ai/blog/pageindex-intro)
   - **vectorless** reasoning based RAG
   - Very awesome idea, human like search, their demo page has really long documents.
+- [37 insights from Weaviate Engineer on retrieval](https://www.leoniemonigatti.com/blog/what_i_learned.html)
+- [very good read on RAG's blind spot](https://softwaredoug.com/blog/2025/05/16/rags-big-blindspot)
