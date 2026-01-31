@@ -17,6 +17,8 @@
 This is one of the important concept I have learned while building the RAG pipeline. i,e., SAGA orchestration. A beautiful concepts.
 
 ## 2026
+
+### Jan
 - [Retrieval Augmented Generation (RAG) Course](https://www.deeplearning.ai/courses/retrieval-augmented-generation-rag/)
   - This is the best course to learn about RAG for production case.
   - 1st pass has been done, notes making under progress.
@@ -27,3 +29,9 @@ This is one of the important concept I have learned while building the RAG pipel
   - Very awesome idea, human like search, their demo page has really long documents.
 - [37 insights from Weaviate Engineer on retrieval](https://www.leoniemonigatti.com/blog/what_i_learned.html)
 - [very good read on RAG's blind spot](https://softwaredoug.com/blog/2025/05/16/rags-big-blindspot)
+- [White-Paper: Applying embedding based retrieval to Airbnb search](https://arxiv.org/pdf/2601.06873)
+  - Im currently reading this paper
+- [Production ready RAG pipeline substack](https://jamwithai.substack.com/p/the-infrastructure-that-powers-rag)
+  - need to understand approach
+
+### Feb
