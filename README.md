@@ -30,7 +30,8 @@ This is one of the important concept I have learned while building the RAG pipel
 - [37 insights from Weaviate Engineer on retrieval](https://www.leoniemonigatti.com/blog/what_i_learned.html)
 - [very good read on RAG's blind spot](https://softwaredoug.com/blog/2025/05/16/rags-big-blindspot)
 - [White-Paper: Applying embedding based retrieval to Airbnb search](https://arxiv.org/pdf/2601.06873)
-  - Im currently reading this paper
+  - I have completed the first pass of the paper. I found a very interesting approach where they used IVF and Euclidean distance.
+  - This removed my bias toward always using cosine similarity. I still need to understand the exact usage, but it helped reduce my confirmation bias.
 - [Production ready RAG pipeline substack](https://jamwithai.substack.com/p/the-infrastructure-that-powers-rag)
   - need to understand approach
 
